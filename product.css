@@ -47,7 +47,7 @@ body{
 }
 #row2{
     height: 300px;
-    background-color: white;
+    background-color:antiquewhite;
     align-items: center;
     display: grid;
     grid-gap: 50px;
